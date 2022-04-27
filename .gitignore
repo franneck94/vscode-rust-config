@@ -10,5 +10,4 @@ package-lock.json
 *.log
 *.exe
 
-test/testAssets/Rust/
-!test/testAssets/Rust/main.py
+target/
