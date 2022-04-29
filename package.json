@@ -2,7 +2,7 @@
     "name": "vscode-rust-config",
     "displayName": "Rust Config",
     "description": "Creates config files for modern Rust projects",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "franneck94",
     "license": "MIT",
     "icon": "logo.png",
