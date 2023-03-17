@@ -14,11 +14,6 @@
     "explorer.copyRelativePathSeparator": "/",
     // Files settings
     "files.autoSave": "onFocusChange",
-    "files.associations": {
-        "*.pyd": "Cython",
-        "*.pyx": "Cython",
-        ".clang*": "yaml"
-    },
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,

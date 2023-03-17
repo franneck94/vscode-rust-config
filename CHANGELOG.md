@@ -1,5 +1,9 @@
 # Rust Config Change Log
 
+## Version 0.3.0
+
+- **Info**: Updated settings
+
 ## Version 0.2.0
 
 - **Info**: Updated settings
