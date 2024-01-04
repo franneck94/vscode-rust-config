@@ -134,5 +134,8 @@
     },
     "redhat.telemetry.enabled": false,
     "workbench.editor.empty.hint": "hidden",
+    // "rust-analyzer.linkedProjects": [
+    //   "${workspaceFolder}/.../Cargo.toml"
+    // ],
     "diffEditor.ignoreTrimWhitespace": false
 }
