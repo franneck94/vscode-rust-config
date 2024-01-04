@@ -1,5 +1,9 @@
 # Rust Config Change Log
 
+## Version 1.0.0, Jan 04, 2024
+
+- **Info**: Added linkedProjects settings
+
 ## Version 0.4.0, Dec 12th 2023
 
 - **Info**: Updated settings
