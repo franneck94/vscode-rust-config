@@ -1,7 +1,4 @@
 {
-    "editor.fontSize": 21,
-    "terminal.integrated.fontSize": 20,
-    "markdown.preview.fontSize": 21,
     // Editor settings
     "editor.tabSize": 4,
     "editor.rulers": [120],
@@ -9,8 +6,6 @@
     "editor.suggestSelection": "first",
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.stickyScroll.enabled": false,
-    "editor.bracketPairColorization.enabled": false,
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.suggest.preview": true,
     "terminal.integrated.defaultProfile.windows": "Command Prompt",

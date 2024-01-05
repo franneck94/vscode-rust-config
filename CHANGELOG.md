@@ -1,5 +1,13 @@
 # Rust Config Change Log
 
+## Version 1.2.0, Jan 05, 2024
+
+- **Info**: Removed some settings
+
+## Version 1.1.0, Jan 05, 2024
+
+- **Info**: Fixed font sizes
+
 ## Version 1.0.0, Jan 04, 2024
 
 - **Info**: Added linkedProjects settings
