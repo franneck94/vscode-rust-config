@@ -132,5 +132,7 @@
     // "rust-analyzer.linkedProjects": [
     //   "${workspaceFolder}/.../Cargo.toml"
     // ],
+    "rust-analyzer.check.command": "check",
+    "debug.allowBreakpointsEverywhere": true,
     "diffEditor.ignoreTrimWhitespace": false
 }
