@@ -9,7 +9,6 @@
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.suggest.preview": true,
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
-    "terminal.integrated.enableMultiLinePasteWarning": false,
     // Debug
     "debug.onTaskErrors": "debugAnyway",
     // Explorer
@@ -130,7 +129,7 @@
     "redhat.telemetry.enabled": false,
     "workbench.editor.empty.hint": "hidden",
     // "rust-analyzer.linkedProjects": [
-    //   "${workspaceFolder}/.../Cargo.toml"
+    //   "${workspaceFolder}/../Cargo.toml"
     // ],
     "rust-analyzer.check.command": "check",
     "debug.allowBreakpointsEverywhere": true,

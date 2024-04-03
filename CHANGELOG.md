@@ -1,5 +1,9 @@
 # Rust Config Change Log
 
+## Version 1.4.0, April 03, 2024
+
+- **Info**: Some setting changes
+
 ## Version 1.3.0, March 25, 2024
 
 - **Info**: Added some settings
