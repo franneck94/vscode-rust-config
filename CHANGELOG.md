@@ -1,5 +1,9 @@
 # Rust Config Change Log
 
+## Version 1.5.0, Aug 24, 2024
+
+- **Info**: Removed not related Rust settings
+
 ## Version 1.4.0, April 03, 2024
 
 - **Info**: Some setting changes

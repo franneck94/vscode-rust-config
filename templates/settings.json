@@ -4,13 +4,7 @@
     "editor.rulers": [120],
     "editor.renderWhitespace": "trailing",
     "editor.suggestSelection": "first",
-    "editor.formatOnSave": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.cursorSmoothCaretAnimation": "on",
-    "editor.suggest.preview": true,
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
-    // Debug
-    "debug.onTaskErrors": "debugAnyway",
     // Explorer
     "explorer.compactFolders": false,
     "explorer.confirmDragAndDrop": false,
@@ -18,45 +12,19 @@
     "explorer.copyRelativePathSeparator": "/",
     // Files
     "files.autoSave": "onFocusChange",
-    "files.exclude": {
-        "node_modules/**/*": true,
-        "**/.classpath": true,
-        "**/.project": true,
-        "**/.settings": true,
-        "**/.factorypath": true
-    },
-    "files.associations": {
-        "*.pyx": "cython",
-        ".clang*": "yaml",
-        "*.gpj": "jsonc",
-        "*.gvw": "jsonc",
-        "*.hpp.in": "cpp"
-    },
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
     // workbench
-    "workbench.startupEditor": "none",
     "workbench.editorAssociations": {
-        "*.ipynb": "jupyter-notebook",
         "*.md": "vscode.markdown.preview.editor",
         "*.svg": "svgPreviewer.customEditor"
     },
-    "workbench.colorTheme": "Default Dark+",
     // Git
     "git.enableSmartCommit": true,
     "git.autofetch": true,
     "git.confirmSync": false,
     "git.openRepositoryInParentFolders": "always",
-    // Telemetry and Security
-    "partialDiff.enableTelemetry": false,
-    // Prettier
-    "prettier.tabWidth": 4,
-    "prettier.singleQuote": true,
-    "prettier.jsxSingleQuote": true,
-    "prettier.trailingComma": "all",
-    "prettier.useEditorConfig": true,
-    "prettier.bracketSpacing": false,
     // Markdown
     "markdown.validate.enabled": true,
     "[markdown]": {
@@ -67,23 +35,6 @@
         "editor.wordWrapColumn": 80
     },
     // Different languages
-    "[yaml]": {
-        "editor.formatOnSave": false,
-        "editor.defaultFormatter": "redhat.vscode-yaml",
-        "editor.wordWrap": "wordWrapColumn",
-        "editor.wordWrapColumn": 80
-    },
-    "[json]": {
-        "editor.formatOnSave": false,
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "[jsonc]": {
-        "editor.formatOnSave": false
-    },
-    "[plaintext]": {
-        "editor.wordWrap": "wordWrapColumn",
-        "editor.wordWrapColumn": 120
-    },
     "[toml]": {
         "editor.wordWrap": "wordWrapColumn",
         "editor.wordWrapColumn": 80
@@ -132,6 +83,5 @@
     //   "${workspaceFolder}/../Cargo.toml"
     // ],
     "rust-analyzer.check.command": "check",
-    "debug.allowBreakpointsEverywhere": true,
-    "diffEditor.ignoreTrimWhitespace": false
+    "debug.allowBreakpointsEverywhere": true
 }
